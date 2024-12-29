@@ -48,7 +48,7 @@ WhisperWave is a dynamic chat application designed for seamless communication an
 
 ## Overview of WhisperWave ChatAppplication 
 ### SignUp Page
-![WishperWave SignUp page](https://github.com/Abhi1608nav/ChatApplication/blob/master/chatapplication%20Images/Signup%20chatapplication%20Page.png)
+![WishperWave SignUp page](./chatapplication%20Images/Signup%20chatapplication%20Page.png)
 ### Login Page
 ![WishperWave Login page](https://github.com/Abhi1608nav/ChatApplication/blob/master/chatapplication%20Images/Login%20chatApp%20page.png)
 ### Profile Page
