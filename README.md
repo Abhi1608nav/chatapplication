@@ -50,15 +50,15 @@ WhisperWave is a dynamic chat application designed for seamless communication an
 ### SignUp Page
 ![WishperWave SignUp page](./chatapplication%20Images/Signup%20chatapplication%20Page.png)
 ### Login Page
-![WishperWave Login page](https://github.com/Abhi1608nav/ChatApplication/blob/master/chatapplication%20Images/Login%20chatApp%20page.png)
+![WishperWave Login page](./chatapplication%20Images/Login%20chatApp%20page.png)
 ### Profile Page
-![WishperWave Profile page](https://github.com/Abhi1608nav/ChatApplication/blob/master/chatapplication%20Images/Edit%20Profile%20page.png)
+![WishperWave Profile page](./chatapplication%20Images/Edit%20Profile%20page.png)
 ### Chatting Section Page
-![WishperWave Chat page](https://github.com/Abhi1608nav/ChatApplication/blob/master/chatapplication%20Images/Main%20Chat%20Page.png)
+![WishperWave Chat page](./chatapplication%20Images/Main%20Chat%20Page.png)
 ### DirectMessage Page
-![WishperWave DirectMessage Section](https://github.com/Abhi1608nav/ChatApplication/blob/master/chatapplication%20Images/DirectMessage%20Page.png)
+![WishperWave DirectMessage Section](./chatapplication%20Images/DirectMessage%20Page.png)
 ### Channel  Page
-![WishperWave Channel Section](https://github.com/Abhi1608nav/ChatApplication/blob/master/chatapplication%20Images/Channels%20page.png)
+![WishperWave Channel Section](./chatapplication%20Images/Channels%20page.png)
 
 
 
